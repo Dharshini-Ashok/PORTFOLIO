@@ -1,0 +1,37 @@
+.container{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+header{
+   background-color:rgb(148, 109, 183);
+   height: 130px;
+}
+main{
+    background-color: rgb(223, 208, 238);
+}
+table,th,td{
+    border: 1px solid black ;
+   
+
+}
+.image{
+    
+    padding-left: 10px;
+    padding-bottom: 120px;
+   
+  
+}
+img{
+   height:100px;
+   width: 100px;
+  position: absolute;
+  top: 5%;
+  border-radius: 50%;
+    border: 2px solid rgb(19, 7, 30);
+   
+   
+   
+}
+table{
+  text-align: center;
+}
